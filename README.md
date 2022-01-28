@@ -10,5 +10,5 @@ The main goal of this project was to use all the learnings of the semester; good
 The Right Measurement is a simple Java Console application in which you can registers a person or yourself 
 and from that you can calculate your BMI, body fat rate, check your ideal weight and check all yours and 
 the other users registered data. When you select exit the application option, all the profiles are saved 
-in a .ser file located at /src folder, so that everytime you restart the application, the program reads 
+in a .ser file located at /Right Measurement folder, so that everytime you restart the application, the program reads 
 this file and you have access to all the resgistered people again.
